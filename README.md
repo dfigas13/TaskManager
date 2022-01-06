@@ -1,4 +1,4 @@
-# TaskManager
+# Task Manager
 Java Grundlagen Workshop Day 5.
 The purpose is to create a console application to manage tasks: Tasks.
 All  data for our program will be save in a text file in CSV format.
