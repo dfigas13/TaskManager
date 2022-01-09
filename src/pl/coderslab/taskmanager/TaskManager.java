@@ -12,7 +12,7 @@ public class TaskManager {
     public static void main(String[] args) {
         showChoice();
     }
-
+//show all options to choice
     public static void showChoice() {
         System.out.println(ConsoleColors.BLUE_BOLD + "Please select an option:");
         System.out.println(ConsoleColors.WHITE_BOLD_BRIGHT + "add");
